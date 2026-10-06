@@ -56,6 +56,8 @@
 // Related Topics String 👍 9600 👎 16062
 
 
+namespace Leetcode.P6;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 public class Solution {
     public string Convert(string s, int numRows) {

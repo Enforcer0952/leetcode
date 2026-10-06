@@ -26,7 +26,7 @@
 //
 // Related Topics Two Pointers String Dynamic Programming Manacher 👍 33256 👎 2
 //040
-namespace Problem5;
+namespace Leetcode.P5;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 public class Solution
